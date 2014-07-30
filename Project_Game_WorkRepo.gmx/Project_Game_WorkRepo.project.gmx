@@ -8,7 +8,11 @@
   <sprites name="sprites">
     <sprite>sprites\spr_1</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background_Gamelevel_1</background>
+    <background>background\background_gamelevel_2</background>
+    <background>background\background_gamelevel_3</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_controller_1</object>
