@@ -9,6 +9,10 @@
     <sprite>sprites\spr_1</sprite>
     <sprite>sprites\spr_2</sprite>
     <sprite>sprites\spr_3</sprite>
+    <sprite>sprites\spr_redcube_32</sprite>
+    <sprite>sprites\spr_yellowcube_32</sprite>
+    <sprite>sprites\spr_greencube_32</sprite>
+    <sprite>sprites\spr_bluecube_32</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
